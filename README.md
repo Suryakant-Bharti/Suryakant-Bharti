@@ -18,8 +18,7 @@
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti">
   <img align="left" alt="Suryakant StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-.
-<br>
+<br />
 
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
