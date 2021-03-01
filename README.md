@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi there 👋</h1>
 
-.
+<br>
 
 <a href="https://www.linkedin.com/in/suryakantbharti">
   <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,7 +25,7 @@
   <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
 
-.
+<br>
 
 <a href="https://medium.com/@suryakantbharti/about">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -43,9 +43,9 @@
   <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 </a>
 
-.
+<br>
 
-.
+<br>
 
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
