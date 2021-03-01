@@ -26,12 +26,13 @@
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
-- 👨🏻‍🎓 Master of Technology (Software Systems and Data Analytics), BITS Pilani
-- 📱 Java, Kotlin Programmer | Android, Firebase Developer 
+👨🏻‍🎓 Master of Technology (Software Systems and Data Analytics), BITS Pilani
+
+📱 Java, Kotlin Programmer | Android, Firebase Developer 
 
 
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy)
-![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&card_width=250&hide_border=true&theme=buefy&hide=css)
+![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&hide_border=true&theme=buefy&hide=css)
 
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
