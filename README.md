@@ -1,24 +1,24 @@
 <h1 align="center">Hi there 👋</h1>
-<div align="center">
+
 <a href="https://www.linkedin.com/in/suryakantbharti">
-  <img align="left" alt="Suryakant's Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Suryakant-Bharti">
-  <img align="left" alt="Suryakant's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Suryakant Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://gitlab.com/Suryakant-Bharti">
-  <img align="left" alt="Suryakant's Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 <a href=https://www.hackerearth.com/@suryakantbharti">
-  <img align="left" alt="Suryakant's HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+  <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
 <a href="https://leetcode.com/suryakantbharti">
-  <img align="left" alt="Suryakant's LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti">
-  <img align="left" alt="Suryakant's StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-</div>
+<br>                      
 
 - 👨🏻‍🎓 Master of Technology (Software Systems and Data Analytics), BITS Pilani
 - 📱 Java, Kotlin, Android, Firebase Developer 
