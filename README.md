@@ -9,14 +9,14 @@
 <a href="https://gitlab.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://www.hackerearth.com/@suryakantbharti">
-  <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+<a href="https://leetcode.com/suryakantbharti">
+  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.hackerrank.com/suryakantbharti">
   <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>    
-<a href="https://leetcode.com/suryakantbharti">
-  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://www.hackerearth.com/@suryakantbharti">
+  <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
 
 .
@@ -32,9 +32,6 @@
 </a>
 <a href="https://dribbble.com/Suryakant-Bharti/about">
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/suryakantbharti">
-  <img align="left" alt="Suryakant GeeksForGeeks" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
 
 .
@@ -64,6 +61,15 @@
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code>
+
+https://auth.geeksforgeeks.org/user/suryakantbharti"
+
+https://www.coursera.org/user/1555bac1b12a4b13f41700e9338cca72
+
+https://profile.edx.org/u/suryakant_bharti
+
+https://www.udemy.com/user/suryakantbharti/
+
 
 Here are some ideas to get you started:
 
