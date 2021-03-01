@@ -9,36 +9,36 @@
 <a href="https://gitlab.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://leetcode.com/suryakantbharti">
-  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 <a href="https://www.hackerearth.com/@suryakantbharti">
   <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
 <a href="https://www.hackerrank.com/suryakantbharti">
   <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>    
+<a href="https://leetcode.com/suryakantbharti">
+  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
 .
-<a href="https://medium.com/@suryakantbharti">
+
+<a href="https://medium.com/@suryakantbharti/about">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://app.pluralsight.com/profile/suryakant-bharti">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
-</a>
-<a href="https://app.pluralsight.com/profile/suryakant-bharti">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/edx.svg" />
-</a>
-<a href="https://app.pluralsight.com/profile/suryakant-bharti">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti">
   <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-                                                                                                                                         
+<a href="https://app.pluralsight.com/profile/suryakant-bharti">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
+</a>
+<a href="https://dribbble.com/Suryakant-Bharti/about">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/suryakantbharti">
+  <img align="left" alt="Suryakant GeeksForGeeks" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
+
 .
-<br />
-                                                                                                                                         
+
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
