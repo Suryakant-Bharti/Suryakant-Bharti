@@ -19,7 +19,7 @@
   <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>    
 
-<br /><br />
+<br />
 
 <a href="https://medium.com/@suryakantbharti">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
