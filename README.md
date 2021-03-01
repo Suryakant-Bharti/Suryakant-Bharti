@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
+<img align="left" alt="Android Hi" width="80px" src="https://user-images.githubusercontent.com/2780145/109505497-a8d97600-7ac2-11eb-9cfe-1e34b52a89ed.gif" /> 
+
+.
+
+# Hi there 👋
 
 <a href="https://www.linkedin.com/in/suryakantbharti">
   <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
