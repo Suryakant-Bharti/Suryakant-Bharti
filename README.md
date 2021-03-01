@@ -33,6 +33,9 @@
 <a href="https://dribbble.com/Suryakant-Bharti/about">
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
+<a href="https://www.credential.net/2d891fcb-0fdd-4986-b9ce-0b7b3bb5a18e">
+  <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+</a>
 
 .
 
