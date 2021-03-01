@@ -2,9 +2,7 @@
 
 .
 
-.
-
-.
+<h1 align="center">Hi there 👋</h1>
 
 <a href="https://www.linkedin.com/in/suryakantbharti">
   <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
