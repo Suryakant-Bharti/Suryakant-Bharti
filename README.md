@@ -20,9 +20,17 @@
 </a>    
 
 .
-
 <a href="https://medium.com/@suryakantbharti">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://app.pluralsight.com/profile/suryakant-bharti">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
+</a>
+<a href="https://app.pluralsight.com/profile/suryakant-bharti">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/edx.svg" />
+</a>
+<a href="https://app.pluralsight.com/profile/suryakant-bharti">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />
 </a>
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti">
   <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
