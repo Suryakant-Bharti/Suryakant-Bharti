@@ -48,7 +48,7 @@
 
 
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
-![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=css)
+![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
 
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
