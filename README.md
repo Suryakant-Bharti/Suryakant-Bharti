@@ -3,6 +3,11 @@
 - 👨🏻‍🎓 Master of Technology (Software Systems and Data Analytics), BITS Pilani
 - 📱 Java, Kotlin, Android, Firebase Developer 
 
+[![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/Suryakant-Bharti)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Suryakant-Bharti/Suryakant-Bharti)](https://badges.pufler.dev)
+
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy)
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&card_width=250&hide_border=true&theme=buefy&hide=css)
 
