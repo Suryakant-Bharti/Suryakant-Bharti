@@ -3,8 +3,8 @@
 - 👨🏻‍🎓 Master of Technology (Software Systems and Data Analytics), BITS Pilani
 - 📱 Java, Kotlin, Android, Firebase Developer 
 
-![Suryakant-Bharti"s Status](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight)
-![Suryakant-Bharti"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakant-Bharti&theme=prussian&hide=css,html,javascript)
+![Suryakant-Bharti"s Status](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy)
+![Suryakant-Bharti"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakant-Bharti&theme=buefy&hide=css,html,javascript)
 
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
