@@ -15,12 +15,12 @@
 <a href="https://gitlab.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
+<a href="https://dribbble.com/Suryakant-Bharti/about">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
 <a href="https://leetcode.com/suryakantbharti">
   <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.hackerrank.com/suryakantbharti">
-  <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>    
 <a href="https://www.hackerearth.com/@suryakantbharti">
   <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
 </a>
@@ -31,14 +31,14 @@
 <a href="https://medium.com/@suryakantbharti/about">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.hackerrank.com/suryakantbharti">
+  <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>    
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti">
   <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://app.pluralsight.com/profile/suryakant-bharti">
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
-</a>
-<a href="https://dribbble.com/Suryakant-Bharti/about">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 <a href="https://www.credential.net/2d891fcb-0fdd-4986-b9ce-0b7b3bb5a18e">
   <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
