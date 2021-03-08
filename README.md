@@ -63,7 +63,8 @@
 
 **Currently working on:**
 
-![1](https://user-images.githubusercontent.com/2780145/110269002-c2aa1a00-7fe8-11eb-9bac-d9ae4be32628.png)
+![1](https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png?resize=460x345)
+![1](https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png?resize=460x345)
 
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
