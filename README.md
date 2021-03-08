@@ -46,9 +46,7 @@
 
 <br>
 
-<br>
-
-<br>
+---
 
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
@@ -61,10 +59,17 @@
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
 
+---
+
 **Currently working on:**
 
-<img align="left" alt="Hi" width="50%" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" />
-<img align="right" alt="Hi" width="50%" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
+<img align="left" width="456" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" />
+<img align="left" width="456" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
+
+<br>
+
+<img align="left" width="456" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" />
+<img align="left" width="456" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" />
 
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
