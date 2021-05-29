@@ -40,7 +40,7 @@
 <a href="https://app.pluralsight.com/profile/suryakant-bharti">
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
 </a>
-<a href="https://www.credential.net/2d891fcb-0fdd-4986-b9ce-0b7b3bb5a18e">
+<a href="https://www.credential.net/107da01a-0e53-41b6-b234-1596aa0aa3c4">
   <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 </a>
 
