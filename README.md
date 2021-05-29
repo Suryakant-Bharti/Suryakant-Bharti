@@ -15,8 +15,8 @@
 <a href="https://gitlab.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://dribbble.com/Suryakant-Bharti/about">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+<a href="https://dribbble.com/Suryakant-Bharti">
+  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 <a href="https://leetcode.com/suryakantbharti">
   <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
