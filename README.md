@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 align="left">Hi there 👋</h1>
+<h2 align="left">Hi there 👋</h2>
 
 <br>
 
@@ -47,23 +47,31 @@
 
 
 <br>
+<br>
+<br>
 
----
+
+## About Me
 
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
-👨🏻‍🎓 Master of Technology (Software Systems and Data Analytics), BITS Pilani
+👨🏻‍🎓  Master of Technology (Software Systems and Data Analytics), BITS Pilani
 
-📱 Java, Kotlin Programmer | Android, Firebase Developer 
+📱  Java & Kotlin Programmer | Android & Firebase Developer
 
+🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns
+
+🔪 Currently learning Object Oriented Design & Architeture in Depth
+
+🌱 Interested in Dart/Flutter Development
 
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
 
----
+<br>
 
-**Currently working on AgriTech App:**
+## Currently working on AgriTech App
 
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
