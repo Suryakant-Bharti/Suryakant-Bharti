@@ -6,8 +6,16 @@
 
 <br>
 
+**PRIMARY LINKS**
+
 <a href="https://www.linkedin.com/in/suryakantbharti">
   <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@suryakantbharti/about">
+  <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://dribbble.com/Suryakant-Bharti">
+  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 <a href="https://github.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -15,34 +23,28 @@
 <a href="https://gitlab.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://dribbble.com/Suryakant-Bharti">
-  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<a href="https://leetcode.com/suryakantbharti">
-  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+
+<br>
+<br>
+
+**SECONDARY LINKS**
+
 <a href="https://www.hackerearth.com/@suryakantbharti">
   <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
-</a>
-
-<br>
-<br>
-
-<a href="https://medium.com/@suryakantbharti/about">
-  <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.hackerrank.com/suryakantbharti">
   <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>    
+<a href="https://leetcode.com/suryakantbharti">
+  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti">
   <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://app.pluralsight.com/profile/suryakant-bharti">
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
 </a>
-<a href="https://scl.io/9Tn1il6">
-  <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
-</a>
+
 
 <br>
 
@@ -61,14 +63,25 @@
 
 ---
 
-**Currently working on:**
+**Currently working on AgriTech App:**
 
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" />
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
 
+More screenshots on [Dribbble](https://dribbble.com/Suryakant-Bharti)
+
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://scl.io/9Tn1il6">
+  <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+</a>
+
+
+<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
+<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" />
+<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
 
 
 ### Languages and Tools:
