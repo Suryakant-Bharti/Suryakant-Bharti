@@ -71,12 +71,12 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
 ⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani  
-🔪 Java & Kotlin Programmer | Android & Firebase Developer  
+🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
 🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns  
 🪓 Currently learning Object Oriented Design & Architeture in Depth  
 🌱 Interested in Dart/Flutter Development  
 
-**APP DEVELOPMENT:**  
+**APP DEVELOPMENT**  
 <code><img height="26" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
 <code><img height="18" width="16" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -84,7 +84,7 @@
 <code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="22" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-**OTHER TOOLS:**  
+**OTHER TOOLS**  
 <code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
 <code><img height="27" width="25"  title="Flask" src="https://user-images.githubusercontent.com/2780145/123687039-0f528300-d86e-11eb-951c-635df1250e2c.png"></code>
 <code><img height="24" width="26" title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
@@ -94,13 +94,20 @@
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
 
-**[PLURALSIGHT JAVA/ANDROID TESTS](https://app.pluralsight.com/profile/suryakant-bharti)**
+**[PLURALSIGHT JAVA/ANDROID SCORES](https://app.pluralsight.com/profile/suryakant-bharti)**
 <img src="https://user-images.githubusercontent.com/2780145/123690795-6ce8ce80-d872-11eb-81a4-0e7ba3a6a2fb.PNG" />
 
 <br>
 
-## 📱  Currently working on:
+## 📱  Worked on:  
+**1. DRAW N GUESS MULTIPLAYER:**  
+[App Store](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Play Store](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en)
+<img src="https://user-images.githubusercontent.com/2780145/123708559-46825d80-d889-11eb-9e45-8331a00ba7d3.PNG" />
 
+
+<br>
+
+## 📱  Working on:  
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
   <summary><b>💖 See more screenshots</b></summary>
