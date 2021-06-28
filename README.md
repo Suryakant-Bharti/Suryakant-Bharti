@@ -51,9 +51,16 @@
 
 
 ## 📌 Pinned
+
+<a href="https://github.com/Suryakant-Bharti/Important-Java-Concepts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light" />
+</a>
+
 | | | |
 | :--- | :--- | :--- |
-|⭐| 💖 [Important Java Concepts Repository](https://github.com/Suryakant-Bharti/Important-Java-Concepts) |⭐|
+|⭐|  [ Singleton Design Pattern in Java ](https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419) |⭐|
+|⭐|  [ Builder Design Pattern in Java ](https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5) |⭐|
+|⭐|   Factory Method Design Pattern in Java  |⭐|
 | | | |
 
 <br>
@@ -63,26 +70,31 @@
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
-⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani
+- ⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani
+- 🔪 Java & Kotlin Programmer | Android & Firebase Developer
+- 🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns
+- 🪓 Currently learning Object Oriented Design & Architeture in Depth
+- 🌱 Interested in Dart/Flutter Development
 
-🔪 Java & Kotlin Programmer | Android & Firebase Developer
+**Technologies:**  
 
-🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-🪓 Currently learning Object Oriented Design & Architeture in Depth
-
-🌱 Interested in Dart/Flutter Development
 
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
 
 <br>
 
-## 📱  Currently working on AgriTech App
+## 📱  Currently working on an AgriTech App
 
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
-  <summary><b>Click for more Screenshots</b></summary>
+  <summary><b>💖 Click for more Screenshots</b></summary>
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" />
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
   
