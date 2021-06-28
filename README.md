@@ -56,11 +56,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light" />
 </a>
 
-| | | |
+|⭐| JAVA NOTES | |
 | :--- | :--- | :--- |
-|⭐|  [ Singleton Design Pattern in Java ](https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419) |⭐|
-|⭐|  [ Builder Design Pattern in Java ](https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5) |⭐|
-|⭐|   Factory Method Design Pattern in Java  |⭐|
+| |[50 Java Keywords](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/keywords)|[Java Features & JVM](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/howItWorks)|
+| |[Java Basis & OOPS](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsI_and_oops)|[Points to Remember](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/oopsRules)|
+| |[Num,Char,Str Methods](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/importantMethods)|[Exception Handling](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/exceptions)|
+| |[Java Generics](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/generics)|[Java Collections](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsII_and_collections)|
 | | | |
 
 <br>
@@ -168,6 +169,14 @@ https://www.coursera.org/user/1555bac1b12a4b13f41700e9338cca72
 https://profile.edx.org/u/suryakant_bharti
 
 https://www.udemy.com/user/suryakantbharti/
+
+
+| | | |
+| :--- | :--- | :--- |
+|⭐|  [ Singleton Design Pattern in Java ](https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419) |⭐|
+|⭐|  [ Builder Design Pattern in Java ](https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5) |⭐|
+|⭐|   Factory Method Design Pattern in Java  |⭐|
+| | | |
 
 
 Here are some ideas to get you started:
