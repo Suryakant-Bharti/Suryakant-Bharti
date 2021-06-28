@@ -101,8 +101,8 @@
 
 ## 📱  Worked on:  
 **1. DRAW N GUESS MULTIPLAYER:**  
-[App Store](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Play Store](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en)
-<img src="https://user-images.githubusercontent.com/2780145/123708559-46825d80-d889-11eb-9e45-8331a00ba7d3.PNG" />
+[App Store](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Play Store](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en)  
+<img width="556" src="https://user-images.githubusercontent.com/2780145/123708559-46825d80-d889-11eb-9e45-8331a00ba7d3.PNG" /><img width="296" src="https://user-images.githubusercontent.com/2780145/123710469-7bdc7a80-d88c-11eb-9ab3-6f0ec12806bb.png" />
 
 
 <br>
