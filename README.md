@@ -77,7 +77,7 @@
 🌱 Interested in Dart/Flutter Development  
 
 **APP DEVELOPMENT:**  
-<code><img height="25" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
+<code><img height="26" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
 <code><img height="18" width="16" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="23" title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -102,6 +102,7 @@
 <details>
   <summary><b>💖 Click for more Screenshots</b></summary>
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" />
+<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15252172/media/286615e696f345aca3c75c6dd2a11824.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15276979/media/b5811dda55056e57e7b9961f62e2b25d.png" />
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
   
   See all screenshots on [Dribbble](https://dribbble.com/Suryakant-Bharti)
