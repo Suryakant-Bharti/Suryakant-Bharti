@@ -76,16 +76,20 @@
 - 🪓 Currently learning Object Oriented Design & Architeture in Depth
 - 🌱 Interested in Dart/Flutter Development
 
-**TOOLS AND TECHNOLOGIES:**  
+**MOBILE DEVELOPMENT:**  
 
-<code><img height="25" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
+<code><img height="25" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
 <code><img height="19" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="22" src="https://user-images.githubusercontent.com/2780145/123681461-80426c80-d867-11eb-8058-817478ca5f4b.png"></code>
+<code><img height="22" src="https://user-images.githubusercontent.com/2780145/123681451-7e78a900-d867-11eb-9c64-ad573407038b.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/python/python.png"></code>
 <code><img height="22" width="24" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
+<code><img height="22" src="https://user-images.githubusercontent.com/2780145/123681457-7fa9d600-d867-11eb-8213-7750eba929a6.png"></code>
 <code><img height="22" src="https://www.jfl-media.com/en/wp-content/uploads/2021/03/unity-icon-300x300.png"></code>
 
 
