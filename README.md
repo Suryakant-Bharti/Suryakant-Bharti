@@ -70,30 +70,26 @@
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
-- ⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani
-- 🔪 Java & Kotlin Programmer | Android & Firebase Developer
-- 🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns
-- 🪓 Currently learning Object Oriented Design & Architeture in Depth
-- 🌱 Interested in Dart/Flutter Development
+⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani  
+🔪 Java & Kotlin Programmer | Android & Firebase Developer  
+🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns  
+🪓 Currently learning Object Oriented Design & Architeture in Depth  
+🌱 Interested in Dart/Flutter Development  
 
-**MOBILE DEVELOPMENT:**  
-
+**APP DEVELOPMENT:**  
 <code><img height="25" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
 <code><img height="18" width="16" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="23" title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="22" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="24" title="Python" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/python/python.png"></code>
-<code><img height="21" title="Gitlab" src="https://user-images.githubusercontent.com/2780145/123681457-7fa9d600-d867-11eb-8213-7750eba929a6.png"></code>
 
+**OTHER TOOLS:**  
 <code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
 <code><img height="27" width="25"  title="Flask" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/flask/flask.png"></code>
 <code><img height="24" width="26" title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 <code><img height="24" title="Docker" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/docker/docker.png"></code>
-<code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123683971-8554eb00-d86a-11eb-974f-fc10f8cc1417.png"></code>
-
-
+<code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123683971-8554eb00-d86a-11eb-974f-fc10f8cc1417.png"></code>  
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
 
@@ -118,6 +114,12 @@
   <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 </a>
 
+<code><img height="24" title="Python" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/python/python.png"></code>
+<code><img height="21" title="Gitlab" src="https://user-images.githubusercontent.com/2780145/123681457-7fa9d600-d867-11eb-8213-7750eba929a6.png"></code>
+
+https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png
 
 <code><img height="22" title="Android Jetpack" src="https://user-images.githubusercontent.com/2780145/123681461-80426c80-d867-11eb-8058-817478ca5f4b.png"></code>
 <code><img height="22" title="ReactiveX" src="https://user-images.githubusercontent.com/2780145/123681451-7e78a900-d867-11eb-9c64-ad573407038b.png"></code>
