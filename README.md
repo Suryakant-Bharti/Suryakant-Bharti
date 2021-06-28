@@ -86,7 +86,7 @@
 
 **OTHER TOOLS**  
 <code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
-<code><img height="27" width="25"  title="Flask" src="https://user-images.githubusercontent.com/2780145/123687039-0f528300-d86e-11eb-951c-635df1250e2c.png"></code>
+<code><img height="24" width="25"  title="Flask" src="https://user-images.githubusercontent.com/2780145/123687039-0f528300-d86e-11eb-951c-635df1250e2c.png"></code>
 <code><img height="24" width="26" title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 <code><img height="24" title="Docker" src="https://user-images.githubusercontent.com/2780145/123687035-0eb9ec80-d86e-11eb-98e0-af1b1b47dcd7.png"></code>
 <code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123687023-0cf02900-d86e-11eb-8147-8f82f4ab24d3.png"></code>
