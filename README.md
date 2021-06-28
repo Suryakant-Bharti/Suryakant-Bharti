@@ -79,12 +79,14 @@
 **TOOLS AND TECHNOLOGIES:**  
 
 <code><img height="25" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
+<code><img height="19" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="17" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/python/python.png"></code>
 <code><img height="22" width="24" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
+<code><img height="22" src="https://www.jfl-media.com/en/wp-content/uploads/2021/03/unity-icon-300x300.png"></code>
 
 
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
