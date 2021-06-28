@@ -79,18 +79,19 @@
 **MOBILE DEVELOPMENT:**  
 
 <code><img height="25" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
-<code><img height="19" width="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="22" src="https://user-images.githubusercontent.com/2780145/123681461-80426c80-d867-11eb-8058-817478ca5f4b.png"></code>
-<code><img height="22" src="https://user-images.githubusercontent.com/2780145/123681451-7e78a900-d867-11eb-9c64-ad573407038b.png"></code>
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="18" width="16" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="22" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="23" title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="22" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24" title="Python" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/python/python.png"></code>
+<code><img height="21" title="Gitlab" src="https://user-images.githubusercontent.com/2780145/123681457-7fa9d600-d867-11eb-8213-7750eba929a6.png"></code>
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/python/python.png"></code>
-<code><img height="22" width="24" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
-<code><img height="22" src="https://user-images.githubusercontent.com/2780145/123681457-7fa9d600-d867-11eb-8213-7750eba929a6.png"></code>
-<code><img height="22" src="https://www.jfl-media.com/en/wp-content/uploads/2021/03/unity-icon-300x300.png"></code>
+<code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
+<code><img height="27" width="25"  title="Flask" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/flask/flask.png"></code>
+<code><img height="24" width="26" title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
+<code><img height="24" title="Docker" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/docker/docker.png"></code>
+<code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123683971-8554eb00-d86a-11eb-974f-fc10f8cc1417.png"></code>
 
 
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
@@ -118,9 +119,8 @@
 </a>
 
 
-<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
-<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" />
-<img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
+<code><img height="22" title="Android Jetpack" src="https://user-images.githubusercontent.com/2780145/123681461-80426c80-d867-11eb-8058-817478ca5f4b.png"></code>
+<code><img height="22" title="ReactiveX" src="https://user-images.githubusercontent.com/2780145/123681451-7e78a900-d867-11eb-9c64-ad573407038b.png"></code>
 
 
 ### Languages and Tools:
