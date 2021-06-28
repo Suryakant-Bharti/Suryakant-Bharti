@@ -99,7 +99,14 @@
 
 <br>
 
-## 📱  Worked on:  
+## 📚 Published Articles  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Recent Article 0"></a>
+  <br>
+
+<br>
+
+## 📱 App Worked On  
 **DRAW N GUESS MULTIPLAYER:**  
 - APP STORE - [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone)  
 - PLAY STORE - [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde)  
@@ -107,7 +114,7 @@
 
 <br>
 
-## 📱  Working on:  
+## 📱 App Working On  
 **AGRITECH APP:**  
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
