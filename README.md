@@ -56,8 +56,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light" />
 </a>  
 
-<br>  
-
 |JAVA NOTES| |
 | :--- | :--- |
 |[50 Java Keywords](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/keywords)|[Java Features & JVM](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/howItWorks)|
