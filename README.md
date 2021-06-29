@@ -76,12 +76,12 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
 
-<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="416" align='left'>
+<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="356" align='left'>
 
-⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani  
+⚔️ Master of Technology (Software Systems and Data Analytics)  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
-🔨 Data Strutures, Algorithms, Object Oriented Programming, Design Patterns  
-🪓 Currently learning Object Oriented Design & Architeture in Depth  
+🔨 Data Strutures, Algorithms, OOPS, Design Patterns  
+🪓 Learning Object Oriented Design & Architeture in Depth  
 🌱 Interested in Dart/Flutter Development  
 
 **APP DEVELOPMENT**  
