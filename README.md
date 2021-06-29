@@ -114,9 +114,7 @@
 
 <br>
 
-<img align="left" alt="Hi" width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> 
-
-## Have Worked On  
+## <img width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> Have Worked On  
 *More than 5 million downloads (including all variants)*  
 **App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
 **Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
@@ -128,7 +126,7 @@
 
 <br>
 
-## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/>  Currently Working On    
+## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/>Working On    
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
   <summary><b>💖 See more screenshots</b></summary>
