@@ -56,13 +56,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light" />
 </a>
 
-|⭐| JAVA NOTES | |
-| :--- | :--- | :--- |
-| |[50 Java Keywords](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/keywords)|[Java Features & JVM](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/howItWorks)|
-| |[Java Basis & OOPS](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsI_and_oops)|[Points to Remember](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/oopsRules)|
-| |[Num,Char,Str Methods](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/importantMethods)|[Exception Handling](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/exceptions)|
-| |[Java Generics](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/generics)|[Java Collections](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsII_and_collections)|
-| | | |
+| JAVA NOTES ||
+| :--- | :--- |
+|[50 Java Keywords](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/keywords)|[Java Features & JVM](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/howItWorks)|
+|[Java Basis & OOPS](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsI_and_oops)|[Points to Remember](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/oopsRules)|
+|[Num, Char, Str, Arr](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/importantMethods)|[Exception Handling](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/exceptions)|
+|[Java Generics](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/generics)|[Java Collections](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsII_and_collections)|
+|[Java Files & I/O](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/input_output)|[Java Serialization](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/serialization)|
+|[Java Networking](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/networking)|[Threads I](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/multithreading) : [Threads II](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/threadSynchronization)|
+| | |
 
 <br>
 
