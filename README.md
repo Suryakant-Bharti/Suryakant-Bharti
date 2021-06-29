@@ -128,8 +128,7 @@
 
 <br>
 
-## 📱 Currently Working On  
-**AGRITECH APP:**  
+## 📱 Currently Working On    
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
   <summary><b>💖 See more screenshots</b></summary>
