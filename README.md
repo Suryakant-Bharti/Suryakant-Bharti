@@ -28,9 +28,6 @@
 <br>
 
 
-<img width="140" src="https://user-images.githubusercontent.com/2780145/123790057-85e99200-d8fb-11eb-8d49-84c4bc109421.jpg" /><img width="140" src="https://user-images.githubusercontent.com/2780145/123790067-87b35580-d8fb-11eb-8a3e-68b7d7567e03.jpg" /><img width="140" src="https://user-images.githubusercontent.com/2780145/123790062-871abf00-d8fb-11eb-89ed-9400fedc5993.jpg" /><img width="140" src="https://user-images.githubusercontent.com/2780145/123790085-8bdf7300-d8fb-11eb-95f6-f5f4789c3db0.jpg" /><img width="140" src="https://user-images.githubusercontent.com/2780145/123790079-8aae4600-d8fb-11eb-8057-8fdd48fe8cc6.jpg" /><img width="140" src="https://user-images.githubusercontent.com/2780145/123790070-88e48280-d8fb-11eb-9086-4136a27a506a.jpg" />
-
-
 **SECONDARY LINKS**
 
 <a href="https://www.hackerearth.com/@suryakantbharti">
@@ -129,7 +126,8 @@
 *\*More than 5 million downloads (including all variants)*  
 **App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
 **Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
-<img src="https://user-images.githubusercontent.com/2780145/123708559-46825d80-d889-11eb-9e45-8331a00ba7d3.PNG" />
+<kbd>
+<img width="140" src="https://user-images.githubusercontent.com/2780145/123793986-fabecb00-d8ff-11eb-9d7e-100e223dec6f.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123793963-f4c8ea00-d8ff-11eb-9b91-e2ad9c32c422.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123790085-8bdf7300-d8fb-11eb-95f6-f5f4789c3db0.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123790057-85e99200-d8fb-11eb-8d49-84c4bc109421.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123794993-1d051880-d901-11eb-991a-2108c94a6e45.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123791981-ba5e4d80-d8fd-11eb-81c1-7c964179404f.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123790067-87b35580-d8fb-11eb-8a3e-68b7d7567e03.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123790079-8aae4600-d8fb-11eb-8057-8fdd48fe8cc6.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123790070-88e48280-d8fb-11eb-9086-4136a27a506a.jpg" /></kbd><kbd><img width="140" src="https://user-images.githubusercontent.com/2780145/123790062-871abf00-d8fb-11eb-89ed-9400fedc5993.jpg" /></kbd>
 
 
 <br>
