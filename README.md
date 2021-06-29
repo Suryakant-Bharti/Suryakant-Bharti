@@ -109,18 +109,16 @@
 
 ## 📚 Published Articles  
 
-
 <kbd>
-  <img  width="400" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" />
+  <img  width="410" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" />
 </kbd>
 
 <kbd>
-  <img  width="400" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" />
+  <img  width="410" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" />
 </kbd>
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Recent Article 0"></a>
+
   <br>
 
 <br>
@@ -153,6 +151,10 @@
 
 <!--
 **Suryakant-Bharti/Suryakant-Bharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Recent Article 0"></a>
+
 
 <a href="https://scl.io/9Tn1il6">
   <img align="left" alt="Suryakant Android Certificate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
