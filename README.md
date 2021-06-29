@@ -84,7 +84,7 @@
 🪓 Learning Object Oriented Design & Architeture in Depth  
 🌱 Interested in Dart/Flutter Development  
 
-**APP DEVELOPMENT**  
+**📱  APP DEVELOPMENT**  
 <code><img height="26" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
 <code><img height="18" width="16" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -92,7 +92,7 @@
 <code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="22" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-**OTHER TOOLS**  
+**🛠️ OTHER TOOLS**  
 <code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
 <code><img height="24" width="25"  title="Flask" src="https://user-images.githubusercontent.com/2780145/123687039-0f528300-d86e-11eb-951c-635df1250e2c.png"></code>
 <code><img height="24" width="26" title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
@@ -110,11 +110,13 @@
 
 ## 📚 Published Articles  
 
-<kbd><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></kbd> <kbd><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></kbd>
+<kbd><a href="https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></a></kbd> <kbd><a href="https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></a></kbd>
 
 <br>
 
-## 📱 Have Worked On  
+<img align="left" alt="Hi" width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> 
+
+## Have Worked On  
 *More than 5 million downloads (including all variants)*  
 **App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
 **Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
@@ -126,7 +128,7 @@
 
 <br>
 
-## 📱 Currently Working On    
+## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/>  Currently Working On    
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
   <summary><b>💖 See more screenshots</b></summary>
