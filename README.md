@@ -45,7 +45,6 @@
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
 </a>
 
-
 <br>
 <br>
 
@@ -109,13 +108,24 @@
 <br>
 
 ## 📚 Published Articles  
+
+
+<kbd>
+  <img  width="400" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" />
+</kbd>
+
+<kbd>
+  <img  width="400" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" />
+</kbd>
+
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Recent Article 0"></a>
   <br>
 
 <br>
 
-## 📱 Earlier Worked On  
+## 📱 Have Worked On  
 **DRAW N GUESS MULTIPLAYER:**  
   *More than 5 million downloads (including all variants)*
 - APP STORE - [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone)  
