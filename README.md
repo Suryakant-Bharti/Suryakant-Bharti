@@ -54,9 +54,11 @@
 
 <a href="https://github.com/Suryakant-Bharti/Important-Java-Concepts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light" />
-</a>
+</a>  
 
-| JAVA NOTES ||
+<br>  
+
+|JAVA NOTES| |
 | :--- | :--- |
 |[50 Java Keywords](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/keywords)|[Java Features & JVM](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/howItWorks)|
 |[Java Basis & OOPS](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/java_basicsI_and_oops)|[Points to Remember](https://github.com/Suryakant-Bharti/Important-Java-Concepts/tree/master/_moreReadMe/oopsRules)|
