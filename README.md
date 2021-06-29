@@ -112,8 +112,6 @@
 
 <kbd><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></kbd> <kbd><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></kbd>
 
-  <br>
-
 <br>
 
 ## 📱 Have Worked On  
