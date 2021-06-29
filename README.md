@@ -105,7 +105,7 @@
 
 ## 📚 Published Articles  
 
-<kbd><a href="https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></a></kbd> <kbd><a href="https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></a></kbd>
+<kbd><a target="_blank" href="https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></a></kbd> <kbd><a target="_blank" href="https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></a></kbd>
 
 <br>
 
