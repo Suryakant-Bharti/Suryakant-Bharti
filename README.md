@@ -70,8 +70,13 @@
 
 ## 👨🏻‍🎓 About Me
 
+
+
 [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
+
+
+<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="426" align='left'>
 
 ⚔️ Master of Technology (Software Systems and Data Analytics), BITS Pilani  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
@@ -94,8 +99,9 @@
 <code><img height="24" title="Docker" src="https://user-images.githubusercontent.com/2780145/123687035-0eb9ec80-d86e-11eb-98e0-af1b1b47dcd7.png"></code>
 <code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123687023-0cf02900-d86e-11eb-8147-8f82f4ab24d3.png"></code>
 
+![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=CSS,Dockerfile)
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
-![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy)
+
 
 **[PLURALSIGHT JAVA/ANDROID SCORES](https://app.pluralsight.com/profile/suryakant-bharti)**
 <img src="https://user-images.githubusercontent.com/2780145/123690795-6ce8ce80-d872-11eb-81a4-0e7ba3a6a2fb.PNG" />
