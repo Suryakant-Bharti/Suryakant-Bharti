@@ -2,11 +2,9 @@
 
 <br>
 
-<h2 align="left">Hi there 👋</h2>
+<h2 align="left">Hi there!</h2>
 
-<img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" />
-
-<br>
+<img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" />  
 
 **PRIMARY LINKS**
 
