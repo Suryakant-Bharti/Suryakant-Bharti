@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/suryakantbharti">
   <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@suryakantbharti/about">
+<a href="https://medium.com/@suryakantbharti">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://dribbble.com/Suryakant-Bharti">
