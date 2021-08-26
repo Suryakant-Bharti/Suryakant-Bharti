@@ -97,9 +97,10 @@
 ![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=CSS,Dockerfile)
 ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 
-
+<!--   // DISABLED TEMPORARIRILY
 **[PLURALSIGHT JAVA/ANDROID SCORES](https://app.pluralsight.com/profile/suryakant-bharti)**
 <img src="https://user-images.githubusercontent.com/2780145/123690795-6ce8ce80-d872-11eb-81a4-0e7ba3a6a2fb.PNG" />
+-->
 
 <br>
 
