@@ -106,7 +106,7 @@
 
 ## 📚 Published Articles  
 
-<kbd><a target="_blank" href="https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></a></kbd> <kbd><a target="_blank" href="https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5"><img  width="413" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></a></kbd>
+<kbd><a target="_blank" href="https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419"><img  width="398" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></a></kbd> <kbd><a target="_blank" href="https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5"><img  width="398" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></a></kbd>
 
 <br>
 
@@ -116,7 +116,7 @@
 **Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
 
 <kbd>
-<img width="413" src="https://user-images.githubusercontent.com/2780145/123799059-71aa9280-d905-11eb-8f8d-b1f443ea6f71.jpg" /></kbd> <kbd><img width="413" src="https://user-images.githubusercontent.com/2780145/123799052-6fe0cf00-d905-11eb-86ad-76403b91ccac.jpg" /></kbd> <kbd><img width="413" src="https://user-images.githubusercontent.com/2780145/123799040-6d7e7500-d905-11eb-8be9-110a1f45bc00.jpg" /></kbd>
+<img width="398" src="https://user-images.githubusercontent.com/2780145/123799059-71aa9280-d905-11eb-8f8d-b1f443ea6f71.jpg" /></kbd> <kbd><img width="398" src="https://user-images.githubusercontent.com/2780145/123799052-6fe0cf00-d905-11eb-86ad-76403b91ccac.jpg" /></kbd> <kbd><img width="398" src="https://user-images.githubusercontent.com/2780145/123799040-6d7e7500-d905-11eb-8be9-110a1f45bc00.jpg" /></kbd>
 
 
 
