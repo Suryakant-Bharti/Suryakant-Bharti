@@ -123,7 +123,7 @@
 <br>
 
 ## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/>Working On    
-<img width="420" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="420" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
+<img width="400" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="400" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
   <summary><b>💖 See more screenshots</b></summary>
 <img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="426" src="https://cdn.dribbble.com/users/2517145/screenshots/15251163/media/f628c757cca7b55c5fbd2e962f7750ad.png" />
