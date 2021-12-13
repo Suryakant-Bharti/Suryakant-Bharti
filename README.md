@@ -110,19 +110,16 @@
 
 <br>
 
-## <img width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> Have Worked On  
-*More than 10 million downloads (including all variants)*  
-**App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
-**Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
+## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/> Mobile Apps   
 
-<kbd>
-<img width="397" src="https://user-images.githubusercontent.com/2780145/123799059-71aa9280-d905-11eb-8f8d-b1f443ea6f71.jpg" /></kbd> <kbd><img width="397" src="https://user-images.githubusercontent.com/2780145/123799052-6fe0cf00-d905-11eb-86ad-76403b91ccac.jpg" /></kbd> <kbd><img width="397" src="https://user-images.githubusercontent.com/2780145/123799040-6d7e7500-d905-11eb-8be9-110a1f45bc00.jpg" /></kbd>
+### SOCIAL APP:
 
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055516/media/1a096d03b2ce459d91af163c9da4178b.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055416/media/9dadebfd6a3ea04ff3cf44da8f088b7c.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055477/media/30434ac3c8b0f6b00b4b560b5975ae32.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055391/media/45fb75ce8d1fe02607ba29a5064e54c4.png" />
 
 
-<br>
+### AGRITECH APP:
 
-## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/>Working On    
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
 <details>
   <summary><b>💖 See more screenshots</b></summary>
@@ -135,6 +132,19 @@
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
   
 </details>
+
+
+
+<br>
+
+## <img width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> Mobiles Games  
+**More than 10 million downloads (including all variants)**  
+**App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
+**Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
+
+<kbd>
+<img width="397" src="https://user-images.githubusercontent.com/2780145/123799059-71aa9280-d905-11eb-8f8d-b1f443ea6f71.jpg" /></kbd> <kbd><img width="397" src="https://user-images.githubusercontent.com/2780145/123799052-6fe0cf00-d905-11eb-86ad-76403b91ccac.jpg" /></kbd> <kbd><img width="397" src="https://user-images.githubusercontent.com/2780145/123799040-6d7e7500-d905-11eb-8be9-110a1f45bc00.jpg" /></kbd>
+
 
 
 <!--
