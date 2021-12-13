@@ -67,7 +67,8 @@
 
 
 
-[![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
 
 
 <img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="336" align='left'>
@@ -93,8 +94,7 @@
 <code><img height="24" title="Docker" src="https://user-images.githubusercontent.com/2780145/123687035-0eb9ec80-d86e-11eb-98e0-af1b1b47dcd7.png"></code>
 <code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123687023-0cf02900-d86e-11eb-8147-8f82f4ab24d3.png"></code>
 
-![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=CSS,Dockerfile)
-![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
+![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=CSS,Dockerfile)![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 
 <!--   // DISABLED TEMPORARIRILY
 **[PLURALSIGHT JAVA/ANDROID SCORES](https://app.pluralsight.com/profile/suryakant-bharti)**
