@@ -148,7 +148,7 @@
 **Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
 
 
-<img width="411" src="https://user-images.githubusercontent.com/2780145/146057350-4624e0c8-014a-4ad5-823f-2f264d26fb28.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146057367-b3dc2c48-0099-4a77-bce0-37755b2686af.png" />
+<img width="411" src="https://user-images.githubusercontent.com/2780145/146057350-4624e0c8-014a-4ad5-823f-2f264d26fb28.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146062948-4bf52f05-0d0b-4f6b-9085-fcb5bd6d37b8.png" />
 <img width="411" src="https://user-images.githubusercontent.com/2780145/146057376-cc4eaceb-51fe-4163-bbec-05598708d652.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146057388-bf26cbff-d2b8-4851-8061-6dc83b445dbb.png" />
 
 
