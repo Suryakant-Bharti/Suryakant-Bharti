@@ -133,18 +133,10 @@
 **Apps:** [Play Store](https://play.google.com/store/apps/details?id=com.agriiprince)
 
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251019/media/a56ee368910f93c0536c9fcee07172e9.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251063/media/ca9b9379e9f01d6674bba4b4544b2e6c.png" />
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15277060/media/d5a8b674d5f047782b8a6114946b790e.png" />
-<details><summary>💖 See more screenshots</summary>
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251163/media/f628c757cca7b55c5fbd2e962f7750ad.png" />
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15252172/media/286615e696f345aca3c75c6dd2a11824.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15276979/media/b5811dda55056e57e7b9961f62e2b25d.png" />
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15252045/media/f4b82d0337b5d5fcd12f389554e32771.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15252003/media/40206850b92480a95490f1a8f4fbf19c.png" />
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15265377/media/57bbebfd3b41a47dd0b1c51d58b6370f.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15265383/media/de3b6dc5fc9e28dffc8d2dc9adb28dfd.png" />
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15277076/media/ef60e5a5190560b1ef32c4129f281a45.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251412/media/380c7203a7c6ed85d6944043ebbff7c3.png" />
-<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" />
-  
-</details>
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251412/media/380c7203a7c6ed85d6944043ebbff7c3.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15279001/media/113dbccb533f925e7cf08c536baa2671.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15277060/media/d5a8b674d5f047782b8a6114946b790e.png" />
 
-
+<a target="_blank" href="https://dribbble.com/Suryakant-Bharti">💖 See all screenshots</a>
 
 <br>
 
@@ -176,9 +168,7 @@
 **Links:** [Apk Pure](https://apkpure.com/heroes-td-gargoyles-vs-zombies/com.bhartilabs.games.gargoylesvszombies) | [Google Panel](https://g.co/kgs/oE53qh)
 
 <img width="411" src="https://user-images.githubusercontent.com/2780145/146082922-1e2a21d9-a8c4-4d58-b97c-18719b55758d.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146082928-8a1f0108-d6cd-4d07-86ba-bfc0ed948e89.png" />
-<details><summary>see more screenshots...</summary>
-<img width="411" src="https://user-images.githubusercontent.com/2780145/146082938-8666569e-b94a-41f1-bb1d-59d04a714df7.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146186447-e90ff375-4ca3-479a-b94a-0a6c9b2bb1c7.png" />
-<img width="411" src="https://user-images.githubusercontent.com/2780145/146092288-665a9186-3943-427c-be2a-fc72f2649138.png" /></details>
+
 
 
 
@@ -198,6 +188,20 @@
 
 
 <!--
+
+
+<details><summary>💖 See more screenshots</summary>
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251186/media/9c11396df4c9f70ff47f8263923966e9.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251163/media/f628c757cca7b55c5fbd2e962f7750ad.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15252172/media/286615e696f345aca3c75c6dd2a11824.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15276979/media/b5811dda55056e57e7b9961f62e2b25d.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15252045/media/f4b82d0337b5d5fcd12f389554e32771.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15252003/media/40206850b92480a95490f1a8f4fbf19c.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15265377/media/57bbebfd3b41a47dd0b1c51d58b6370f.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15265383/media/de3b6dc5fc9e28dffc8d2dc9adb28dfd.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15277076/media/ef60e5a5190560b1ef32c4129f281a45.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251820/media/4c7f2acb97ce061031052e56965eb1c8.png" />
+<img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251368/media/ba3c27e04cc5befa8c937f2052436146.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251207/media/deda19f74ed3f274d347fca628531b4e.png" /></details>
+
+
+<details><summary>see more screenshots...</summary>
+<img width="411" src="https://user-images.githubusercontent.com/2780145/146082938-8666569e-b94a-41f1-bb1d-59d04a714df7.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146186447-e90ff375-4ca3-479a-b94a-0a6c9b2bb1c7.png" />
+<img width="411" src="https://user-images.githubusercontent.com/2780145/146092288-665a9186-3943-427c-be2a-fc72f2649138.png" /></details>
 
 
 <kbd>
