@@ -113,6 +113,9 @@
 
 ### SOCIAL APP:
 
+**App for influencers to monetize their audience in 1 min**  
+**Apps:** [App Store](https://apps.apple.com/IN/app/id1583460452/id1583460452) | [Play Store](https://play.google.com/store/apps/details?id=com.rigiapp) | [Web App](https://rigi.club/chat)
+
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17057112/media/453a0f4b425a3aaae1dcbaf5e5801689.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055416/media/9dadebfd6a3ea04ff3cf44da8f088b7c.png" />
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055477/media/30434ac3c8b0f6b00b4b560b5975ae32.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/17055391/media/45fb75ce8d1fe02607ba29a5064e54c4.png" />
 
