@@ -136,11 +136,11 @@
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251126/media/37edbefd2618467fbac625dd4899cd59.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15251412/media/380c7203a7c6ed85d6944043ebbff7c3.png" />
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15279001/media/113dbccb533f925e7cf08c536baa2671.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/15277060/media/d5a8b674d5f047782b8a6114946b790e.png" />
 
-<a target="_blank" href="https://dribbble.com/Suryakant-Bharti">💖 See all screenshots</a>
+[💖 See all screenshots](https://dribbble.com/Suryakant-Bharti)
 
 <br>
 
-## <img width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> Mobiles Games  
+## <img width="64px" src="https://user-images.githubusercontent.com/2780145/123801877-4c6b5380-d908-11eb-82e9-900abbafff26.gif" /> Mobile Games  
 
 ### WORD GAME
 
