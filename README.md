@@ -121,7 +121,7 @@
 
 ### HEALTH APP:
 
-**COVID Safety Guide App for Client**
+**Multilingual COVID Safety Guide App for Client**
 
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/16316731/media/ba3840882342051ec94c562919f1065d.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/16323844/media/c6d43f1c289bdd27ca6f31b56f1c12d3.png" />
 <img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/16316423/media/101a74ce17ef5774ac27418057bc0860.png" /><img width="411" src="https://cdn.dribbble.com/users/2517145/screenshots/16316139/media/8fff3783f9a44c02f59843470a3ff4ba.png" />
@@ -151,6 +151,7 @@
 
 ### WORD GAME
 
+**Multilingual multiplayer word guessing social game**  
 **More than 10 million downloads (including all variants)**  
 **App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
 **Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguessde) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
@@ -162,11 +163,16 @@
 
 ### ACTION GAME
 
+**Multiplayer action game with social features**  
+**Apps:** [Play Store](https://play.google.com/store/apps/details?id=com.timeplusq.bombbros)
+
 <img width="411" src="https://user-images.githubusercontent.com/2780145/146093940-0a2067ea-e540-4a83-96f4-1433fca23edd.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146093951-a1dcd408-76e8-4c3f-8a56-d10f888a4c4c.png" />
 
 
 ### STRATEGY GAME
 
+**Multilingual action game with strategy features**  
+**Links:** [Apk Pure](https://apkpure.com/heroes-td-gargoyles-vs-zombies/com.bhartilabs.games.gargoylesvszombies) | [Google Panel](https://g.co/kgs/oE53qh)
 
 <img width="411" src="https://user-images.githubusercontent.com/2780145/146082922-1e2a21d9-a8c4-4d58-b97c-18719b55758d.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146082928-8a1f0108-d6cd-4d07-86ba-bfc0ed948e89.png" />
 <details><summary>see more screenshots...</summary>
