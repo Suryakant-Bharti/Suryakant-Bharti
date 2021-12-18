@@ -45,6 +45,8 @@
 <br>
 
 
+
+
 ## 📌 Pinned
 
 <a href="https://github.com/Suryakant-Bharti/Important-Java-Concepts">
@@ -104,6 +106,10 @@
 <br>
 
 ## 📚 Published Articles  
+
+<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Recent Article 0"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Recent Article 1"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2" alt="Recent Article 2"></a> <br>
 
 <kbd><a target="_blank" href="https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419"><img  width="397" src="https://user-images.githubusercontent.com/2780145/123784316-ee814080-d8f4-11eb-9c15-76f5cdaa47f6.PNG" /></a></kbd> <kbd><a target="_blank" href="https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5"><img  width="397" src="https://user-images.githubusercontent.com/2780145/123784306-ecb77d00-d8f4-11eb-9205-730e790a4f71.PNG" /></a></kbd>
 
