@@ -107,7 +107,7 @@
 
 ## 📚 Published Articles  
 
-<br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2" alt="Recent Article 2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2" alt="Recent Article 2"></a>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Recent Article 1"></a>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Recent Article 0"></a> <br>
 
