@@ -133,11 +133,18 @@
 <table>
 <thead>
   <tr>
-    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg" width="300" height="200"></td>
-    <td><h1>Design Patterns in Java/Android — Singleton</h1><br>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</td>
+    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"></td>
+    <td><h2>Design Patterns in Java/Android — Singleton</h1><br>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</h2></td>
   </tr>
 </thead>
 </table>
+
+
+
+
+
+
+
 
 ## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/> Mobile Apps   
 
