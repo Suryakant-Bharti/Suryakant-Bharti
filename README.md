@@ -130,6 +130,15 @@
     
 <br>
 
+<table>
+<thead>
+  <tr>
+    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg" width="300" height="200"></td>
+    <td><h1>Design Patterns in Java/Android — Singleton</h1><br>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</td>
+  </tr>
+</thead>
+</table>
+
 ## <img height="40" src="https://user-images.githubusercontent.com/2780145/123802164-9bb18400-d908-11eb-8f8c-db12368bc0e4.gif"/> Mobile Apps   
 
 ### SOCIAL APP:
@@ -189,7 +198,6 @@
 **Links:** [Apk Pure](https://apkpure.com/heroes-td-gargoyles-vs-zombies/com.bhartilabs.games.gargoylesvszombies) | [Google Panel](https://g.co/kgs/oE53qh)
 
 <img width="411" src="https://user-images.githubusercontent.com/2780145/146082922-1e2a21d9-a8c4-4d58-b97c-18719b55758d.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146082928-8a1f0108-d6cd-4d07-86ba-bfc0ed948e89.png" />
-
 
 
 
