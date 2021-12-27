@@ -130,14 +130,15 @@
     
 <br>
 
+
 <table>
 <thead>
   <tr>
-    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"></td>
-    <td><h2>Design Patterns in Java/Android — Singleton</h1><br>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</h2></td>
+    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h2>Design Patterns in Java/Android — Singleton</h2><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
   </tr>
 </thead>
 </table>
+
 
 
 
