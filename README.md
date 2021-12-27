@@ -131,14 +131,30 @@
 <br>
 
 
-<table>
+
+  <table>
 <thead>
   <tr>
-    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h2>Design Patterns in Java/Android — Singleton</h2><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
+    <td width = "311"><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h3>Design Patterns in Android — Singleton</h3></td>
   </tr>
+  <tr>
+    <td width = "311"><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
+    </tr>
 </thead>
 </table>
 
+
+
+<table>
+<thead>
+  <tr>
+    <td width = "311"><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h3>Design Patterns in Android — Singleton</h3></td>
+  </tr>
+  <tr>
+    <td width = "311"><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
+    </tr>
+</thead>
+</table>
 
 
 
@@ -225,6 +241,15 @@
 
 
 <!--
+
+
+<table>
+<thead>
+  <tr>
+    <td><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h2>Design Patterns in Java/Android — Singleton</h2><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
+  </tr>
+</thead>
+</table>
 
 
 
