@@ -117,19 +117,15 @@
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/4" alt="Java - Serialization"></a>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2" alt="Java - Threads"></a>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Java - Synchronization"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8" alt="Design Patterns - Factory"></a>
     <br>
     
     
 ### JAVA DESIGN PATTERNS:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/11"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/11" alt="Design Patterns - Singleton"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/10"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/10" alt="Design Patterns - Factory"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/9" alt="Design Patterns - Prototype"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8" alt="Design Patterns - Factory"></a>
-    <br> 
-    
-<br>
+<a href='https://svgshare.com/s/d67' ><img src='https://svgshare.com/i/d67.svg' title='' /></a>
 
+<img width="411" src="https://svgshare.com/i/d7W.svg" /><img width="411" src="https://svgshare.com/i/d7W.svg" />
 
 
   <table>
