@@ -109,39 +109,17 @@
 
 ### JAVA CONCEPTS:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Java - OOPS"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/7" alt="Java - Generics"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/6" alt="Java - Collections"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/3" alt="Java - Exceptions"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/5" alt="Java - Files, I/O"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/4" alt="Java - Serialization"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2" alt="Java - Threads"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Java - Synchronization"></a>
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8" alt="Design Patterns - Factory"></a>
-    <br>
+<img width="411" src="https://svgshare.com/i/d7W.svg" /><img width="411" src="https://svgshare.com/i/d8s.svg" />
+<img width="411" src="https://svgshare.com/i/d8V.svg" /><img width="411" src="https://svgshare.com/i/d99.svg" />
+<img width="411" src="https://svgshare.com/i/d8A.svg" /><img width="411" src="https://svgshare.com/i/d8r.svg" />
     
     
 ### JAVA DESIGN PATTERNS:
 
-<a href='https://svgshare.com/s/d67' ><img src='https://svgshare.com/i/d67.svg' title='' /></a>
 
-<img width="411" src="https://svgshare.com/i/d7W.svg" /><img width="411" src="https://svgshare.com/i/d7W.svg" />
 
 
   <table>
-<thead>
-  <tr>
-    <td width = "311"><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h3>Design Patterns in Android — Singleton</h3></td>
-  </tr>
-  <tr>
-    <td width = "311"><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
-    </tr>
-</thead>
-</table>
-
-
-
-<table>
 <thead>
   <tr>
     <td width = "311"><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h3>Design Patterns in Android — Singleton</h3></td>
@@ -237,6 +215,39 @@
 
 
 <!--
+
+
+
+
+
+
+
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/0" alt="Java - OOPS"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/7" alt="Java - Generics"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/6" alt="Java - Collections"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/3" alt="Java - Exceptions"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/5" alt="Java - Files, I/O"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/4" alt="Java - Serialization"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/2" alt="Java - Threads"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Java - Synchronization"></a>
+    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8" alt="Design Patterns - Factory"></a>
+    <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <table>
