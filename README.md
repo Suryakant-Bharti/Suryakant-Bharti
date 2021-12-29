@@ -101,7 +101,7 @@
 
 ### JAVA CONCEPTS:
 
-<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/JDK.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/OOPS.svg" />
+<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/JDK.svg" />      <img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/OOPS.svg" />
 <img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Generics.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Collections.svg" />
 <img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Exception.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/FilesIO.svg" />
 <img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Serialization.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Networking.svg" />
