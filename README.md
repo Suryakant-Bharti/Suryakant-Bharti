@@ -101,11 +101,11 @@
 
 ### JAVA CONCEPTS:
 
-<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/JDK.svg" />      <img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/OOPS.svg" />
-<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Generics.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Collections.svg" />
-<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Exception.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/FilesIO.svg" />
-<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Serialization.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Networking.svg" />
-<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Multithreading.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Synchronization.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/JDK2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/OOPS2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Generics2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Collections2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Exception2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/FilesIO2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Serialization2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Networking2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Multithreading2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Synchronization2.svg" />
     
     
 ### DESIGN PATTERNS:
