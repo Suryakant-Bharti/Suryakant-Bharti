@@ -105,16 +105,18 @@
 
 <br>
 
-## 📚 Published Articles  
+## 📚 Published Articles (Medium)
 
 ### JAVA CONCEPTS:
 
-<img width="411" src="https://svgshare.com/i/d7W.svg" /><img width="411" src="https://svgshare.com/i/d8s.svg" />
-<img width="411" src="https://svgshare.com/i/d8V.svg" /><img width="411" src="https://svgshare.com/i/d99.svg" />
-<img width="411" src="https://svgshare.com/i/d8A.svg" /><img width="411" src="https://svgshare.com/i/d8r.svg" />
+<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/JDK.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/OOPS.svg" />
+<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Generics.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Collections.svg" />
+<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Exception.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/FilesIO.svg" />
+<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Serialization.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Networking.svg" />
+<img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Multithreading.svg" /><img width="411" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/Synchronization.svg" />
     
     
-### JAVA DESIGN PATTERNS:
+### DESIGN PATTERNS:
 
 
 
@@ -214,6 +216,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 
 
@@ -234,11 +255,6 @@
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/1" alt="Java - Synchronization"></a>
     <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suryakantbharti/8" alt="Design Patterns - Factory"></a>
     <br>
-
-
-
-
-
 
 
 
