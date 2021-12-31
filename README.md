@@ -169,7 +169,7 @@
 **Multilingual multiplayer word guessing social game**  
 **More than 10 million downloads (including all variants)**  
 **App Store:** [English](https://apps.apple.com/us/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone) | [Chinese](https://apps.apple.com/cn/app/%E4%BD%A0%E7%94%BB%E6%88%91%E7%8C%9C-%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/id1145746808#?platform=iphone) | [Japanese](https://apps.apple.com/jp/app/draw-n-guess-multiplayer-online/id532137502#?platform=iphone)  
-**Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=de) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
+**Play Store:** [English](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=en) | [German](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=de) | [French](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=fr) | [Spanish](https://play.google.com/store/apps/details?id=com.timeplusq.drawnguess&hl=es)  
 
 
 <img width="411" src="https://user-images.githubusercontent.com/2780145/146057350-4624e0c8-014a-4ad5-823f-2f264d26fb28.png" /><img width="411" src="https://user-images.githubusercontent.com/2780145/146062948-4bf52f05-0d0b-4f6b-9085-fcb5bd6d37b8.png" />
