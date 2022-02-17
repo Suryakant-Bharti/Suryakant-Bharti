@@ -1,12 +1,14 @@
 # <img width="100px" src="https://user-images.githubusercontent.com/2780145/109505497-a8d97600-7ac2-11eb-9cfe-1e34b52a89ed.gif" />Hi there!  
 <img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" />  
 
+Welcome to my profile Code Ninjas! This is Suryakant (スーリヤカント)
+
 **PRIMARY LINKS**
 
 <a href="https://www.linkedin.com/in/suryakantbharti">
   <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@suryakantbharti">
+<a href="https://medium.com/android-saga">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://dribbble.com/Suryakant-Bharti">
@@ -99,33 +101,7 @@
 
 ## 📚 Published Articles (Medium)
 
-### JAVA CONCEPTS:
 
-<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/JDK2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/OOPS2.svg" />
-<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Generics2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Collections2.svg" />
-<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Exception2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/FilesIO2.svg" />
-<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Serialization2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Networking2.svg" />
-<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Multithreading2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Synchronization2.svg" />
-    
-    
-### DESIGN PATTERNS:
-
-
-
-
-  <table>
-<thead>
-  <tr>
-    <td width = "311"><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h3>Design Patterns in Android — Singleton</h3></td>
-  </tr>
-  <tr>
-    <td width = "311"><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
-    </tr>
-</thead>
-</table>
-
-
-<br>
 
 
 
@@ -228,6 +204,42 @@
 
 
 <!--
+
+
+
+
+MEDIUM OLD!!
+
+
+### JAVA CONCEPTS:
+
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/JDK2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/OOPS2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Generics2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Collections2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Exception2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/FilesIO2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Serialization2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Networking2.svg" />
+<img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Multithreading2.svg" />     <img width="400" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/blob/main/MediumJavaConcepts/Synchronization2.svg" />
+    
+    
+### DESIGN PATTERNS:
+
+
+
+
+  <table>
+<thead>
+  <tr>
+    <td width = "311"><img src="https://miro.medium.com/max/4000/1*49wKbUD3upb2Q91j8DUOPg.jpeg"><h3>Design Patterns in Android — Singleton</h3></td>
+  </tr>
+  <tr>
+    <td width = "311"><p>This pattern ensures a class has one instance at most and the class itself provides a global point of access.</p></td>
+    </tr>
+</thead>
+</table>
+
+
+<br>
+
+
 
 
 
