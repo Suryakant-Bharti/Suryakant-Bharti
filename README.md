@@ -70,7 +70,7 @@
 ⚔️ Master of Technology (Software Systems and Data Analytics)  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
 🔨 Data Strutures, Algorithms, OOPS, Design Patterns  
-🪓 Learning Object Oriented Design & Architeture in Depth  
+🪓 Focusing on Object Oriented Design & Architeture  
 🌱 Interested in Dart/Flutter Development  
 
 **📱  APP DEVELOPMENT**  
