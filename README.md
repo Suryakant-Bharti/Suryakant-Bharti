@@ -1,7 +1,7 @@
 # <img width="100px" src="https://user-images.githubusercontent.com/2780145/109505497-a8d97600-7ac2-11eb-9cfe-1e34b52a89ed.gif" />Hi there!  
 <img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" />  
 
-Welcome to my profile Code Ninjas! This is Suryakant (スーリヤカント)
+<!-- Welcome to my profile Code Ninjas! This is Suryakant (スーリヤカント) -->
 
 **PRIMARY LINKS**
 
