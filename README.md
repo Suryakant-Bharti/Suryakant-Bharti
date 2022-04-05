@@ -101,6 +101,21 @@
 
 ## 📚 Published Articles (Medium)
 
+| | | |
+| :--- | :--- | :--- |
+|⭐|  [ Singleton Design Pattern in Java ](https://medium.com/android-saga/design-patterns-in-java-android-singleton-d50afa0c868f) |⭐|
+|⭐|  [ Builder Design Pattern in Java ](https://medium.com/android-saga/design-patterns-in-java-android-builder-c4847dfa50bb) |⭐|
+|⭐|  [Factory Design Pattern in Java](https://medium.com/android-saga/design-patterns-in-java-android-factory-e194b8338f05) |⭐|
+|⭐|  [Prototype Design Pattern in Java](https://medium.com/android-saga/design-patterns-in-java-android-prototype-6577f0c762e1) |⭐|
+| | | |
+
+
+| | | |
+| :--- | :--- | :--- |
+|🌱|  [ Java: Features, JDK & JVM ](https://medium.com/android-saga/java-concepts-features-jdk-jvm-2f2cbcf940e4) |🌱|
+|🌱|  [ Java: All 50 Keywords Examples ](https://medium.com/android-saga/java-concepts-all-50-keywords-examples-5e4685862873) |🌱|
+|🌱|  [ Java: Object Oriented Concepts I ](https://medium.com/android-saga/java-concepts-object-oriented-programming-i-bf6d0dfa23f6) |🌱|
+| | | |
 
 
 
@@ -369,12 +384,7 @@ https://www.udemy.com/user/suryakantbharti/
 <img width="138" src="https://user-images.githubusercontent.com/2780145/123793986-fabecb00-d8ff-11eb-9d7e-100e223dec6f.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123793963-f4c8ea00-d8ff-11eb-9b91-e2ad9c32c422.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790085-8bdf7300-d8fb-11eb-95f6-f5f4789c3db0.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790057-85e99200-d8fb-11eb-8d49-84c4bc109421.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123794993-1d051880-d901-11eb-991a-2108c94a6e45.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123791981-ba5e4d80-d8fd-11eb-81c1-7c964179404f.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790067-87b35580-d8fb-11eb-8a3e-68b7d7567e03.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790079-8aae4600-d8fb-11eb-8057-8fdd48fe8cc6.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790070-88e48280-d8fb-11eb-9086-4136a27a506a.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790062-871abf00-d8fb-11eb-89ed-9400fedc5993.jpg" />
 
 
-| | | |
-| :--- | :--- | :--- |
-|⭐|  [ Singleton Design Pattern in Java ](https://medium.com/geekculture/design-patterns-in-android-singleton-918194310419) |⭐|
-|⭐|  [ Builder Design Pattern in Java ](https://medium.com/geekculture/builder-design-pattern-in-java-examples-from-java-android-libraries-9c85f65696e5) |⭐|
-|⭐|   Factory Method Design Pattern in Java  |⭐|
-| | | |
+
 
 
 Here are some ideas to get you started:
