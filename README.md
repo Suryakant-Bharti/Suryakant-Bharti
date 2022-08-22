@@ -80,7 +80,7 @@
 
 🌿 Mobile App and Game Development  
 🍂 App UI/UX Prototype and Design  
-🌸 Character Art - Pencil and Digital  
+🌸 Concept & Character Art - Pencil & Digital  
 🍁 Kpop | Anime | MOBA - RTS - RPG/JRPG
 
 <br>
