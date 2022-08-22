@@ -1,4 +1,4 @@
-# <img width="100px" src="https://user-images.githubusercontent.com/2780145/172943108-beb1fb36-3195-4b1a-8d14-cbba8d0400ea.gif" />Hi there!  
+# <img width="80px" src="https://user-images.githubusercontent.com/2780145/172943108-beb1fb36-3195-4b1a-8d14-cbba8d0400ea.gif" />Hi there!  
 <img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" />  
 
 <!-- Welcome to my profile Code Ninjas! This is Suryakant (スーリヤカント) -->
@@ -69,17 +69,23 @@
 
 
 
-[![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev)
-
 
 <img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="336" align='left'>
 
 ⚔️ Master of Technology (Software Systems and Data Analytics)  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
-🔨 Data Strutures, Algorithms, OOPS, Design Patterns  
-🪓 Focusing on Object Oriented Design & Architeture  
-🌱 Interested in Dart/Flutter Development  
+🔨 Data Strutures, Algorithms, OOPS, Design Patterns, Architecture  
+
+❄️ Android MVVM, Coroutines, Retrofit, Room, Hilt  
+⚡ Interested in Dart/Flutter Development 
+
+🌿 Mobile App and Game Development  
+🍂 App UI/UX Prototype and Design  
+🌸 Character Art - Pencil and Digital  
+🍁 Kpop | Anime | MOBA - RTS - RPG/JRPG
+
+
+
 
 **📱  APP DEVELOPMENT**  
 <code><img height="26" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
@@ -88,6 +94,7 @@
 <code><img height="23" title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="22" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
 
 **🛠️ OTHER TOOLS**  
 <code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
@@ -391,7 +398,8 @@ https://www.udemy.com/user/suryakantbharti/
 <img width="138" src="https://user-images.githubusercontent.com/2780145/123793986-fabecb00-d8ff-11eb-9d7e-100e223dec6f.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123793963-f4c8ea00-d8ff-11eb-9b91-e2ad9c32c422.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790085-8bdf7300-d8fb-11eb-95f6-f5f4789c3db0.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790057-85e99200-d8fb-11eb-8d49-84c4bc109421.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123794993-1d051880-d901-11eb-991a-2108c94a6e45.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123791981-ba5e4d80-d8fd-11eb-81c1-7c964179404f.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790067-87b35580-d8fb-11eb-8a3e-68b7d7567e03.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790079-8aae4600-d8fb-11eb-8057-8fdd48fe8cc6.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790070-88e48280-d8fb-11eb-9086-4136a27a506a.jpg" /> <img width="138" src="https://user-images.githubusercontent.com/2780145/123790062-871abf00-d8fb-11eb-89ed-9400fedc5993.jpg" />
 
 
-
+<!-- [![Years Badge](https://badges.pufler.dev/years/Suryakant-Bharti)](https://badges.pufler.dev) -->
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/Suryakant-Bharti)](https://badges.pufler.dev) -->
 
 
 Here are some ideas to get you started:
