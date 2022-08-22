@@ -73,11 +73,10 @@
 <img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="336" align='left'>
 
 ⚔️ Master of Technology (Software Systems and Data Analytics)  
-🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
+🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java | Kotlin | Firebase    
 🔨 Data Strutures, Algorithms, OOPS, Design Patterns, Architecture  
-
-❄️ MVVM, Coroutines, Retrofit, Room, Hilt  
-⚡ Interested in Dart/Flutter Development 
+⚡ MVVM, Coroutines, Retrofit, Room, Hilt  
+🔥 Interested in Dart/Flutter Development 
 
 🌿 Mobile App and Game Development  
 🍂 App UI/UX Prototype and Design  
