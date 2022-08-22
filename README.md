@@ -76,7 +76,7 @@
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java & Kotlin | Firebase    
 🔨 Data Strutures, Algorithms, OOPS, Design Patterns, Architecture  
 
-❄️ Android MVVM, Coroutines, Retrofit, Room, Hilt  
+❄️ MVVM, Coroutines, Retrofit, Room, Hilt  
 ⚡ Interested in Dart/Flutter Development 
 
 🌿 Mobile App and Game Development  
