@@ -3,6 +3,14 @@
 
 <!-- Welcome to my profile Code Ninjas! This is Suryakant (スーリヤカント) -->
 
+<a href="https://www.suryakantbharti.com/">
+  <img align="left" alt="Suryakant Website" height="36px" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/assets/2780145/75344a6e-38a5-48a9-b055-866963f1ca7c" />
+</a>
+
+<br>
+<br>
+<br>
+
 **PRIMARY LINKS**
 
 <a href="https://www.linkedin.com/in/suryakantbharti">
@@ -17,9 +25,6 @@
 <a href="https://www.facebook.com/suryakant.bharti.apps">
   <img align="left" alt="Apps FB Page" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://dribbble.com/Suryakant-Bharti">
-  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
 <a href="https://www.behance.net/suryakantbharti">
   <img align="left" alt="Suryakant Behance" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
@@ -30,20 +35,17 @@
 
 **SECONDARY LINKS**
 
-<a href="https://www.hackerearth.com/@suryakantbharti">
-  <img align="left" alt="Suryakant HackerEarth" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+<a href="https://dribbble.com/Suryakant-Bharti">
+  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
-<a href="https://www.hackerrank.com/suryakantbharti">
-  <img align="left" alt="Suryakant HackerRank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>  
-<a href="https://stackoverflow.com/users/10436569/suryakant-bharti?tab=profile">
-  <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://app.pluralsight.com/profile/suryakant-bharti">
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
 </a>
 <a href="https://leetcode.com/suryakantbharti">
   <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>  
-<a href="https://app.pluralsight.com/profile/suryakant-bharti">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
+<a href="https://stackoverflow.com/users/10436569/suryakant-bharti?tab=profile">
+  <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://gitlab.com/Suryakant-Bharti">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
@@ -70,18 +72,17 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="336" align='left'>
+<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="300" align='left'>
 
 ⚔️ Master of Technology (Software Systems and Data Analytics)  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java | Kotlin | Firebase    
 🔨 Data Strutures, Algorithms, OOPS, Design Patterns, Architecture  
 ⚡ MVVM, Coroutines, Retrofit, Room, Hilt  
-🔥 Interested in Dart/Flutter Development 
+🔥 Sometimes doing Dart/Flutter Development 
 
 🌿 Mobile App and Game Development  
-🍂 App UI/UX Prototype and Design  
-🌸 Concept & Character Art - Pencil & Digital  
-🍁 Kpop | Anime | MOBA - RTS - RPG/JRPG
+🍂 App UI with Figma & Photoshop  
+🌸 Experimenting with Stable Diffusion
 
 <br>
 
@@ -97,6 +98,7 @@
 
 **🛠️ OTHER TOOLS**  
 <code><img height="24" title="Git" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/git/git.png"></code>
+<code><img height="24" title="Postman" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png"></code>
 <code><img height="24" width="25"  title="Flask" src="https://user-images.githubusercontent.com/2780145/123687039-0f528300-d86e-11eb-951c-635df1250e2c.png"></code>
 <code><img height="24" width="26" title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 <code><img height="24" title="Docker" src="https://user-images.githubusercontent.com/2780145/123687035-0eb9ec80-d86e-11eb-98e0-af1b1b47dcd7.png"></code>
