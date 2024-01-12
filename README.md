@@ -77,7 +77,7 @@
 ⚔️ Master of Technology (Software Systems and Data Analytics)  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java | Kotlin | Firebase    
 🔨 Data Strutures, Algorithms, OOPS, Design Patterns, Architecture  
-⚡ MVVM, Coroutines, Retrofit, Room, Hilt  
+⚡ MVVM, Clean Architecture, Coroutines, Retrofit, Room, Hilt  
 🔥 Sometimes doing Dart/Flutter Development 
 
 🌿 Mobile App and Game Development  
@@ -85,7 +85,7 @@
 🌸 Experimenting with Stable Diffusion
 
 <br>
-
+<br>
 
 **📱  APP DEVELOPMENT**  
 <code><img height="26" title="Java" src="https://github.com/abranhe/programming-languages-logos/blob/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java_512x512.png"></code>
