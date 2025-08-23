@@ -59,20 +59,15 @@
 
 ## 📌 Pinned
 
-<a href="https://github.com/Suryakant-Bharti/Important-Java-Concepts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light" />
-</a>  
-
-
+<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="260"/> <a href="https://github.com/Suryakant-Bharti/Important-Java-Concepts">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryakant-Bharti&repo=Important-Java-Concepts&theme=light"/>
+</a>
 
 <br>
 
 ## 👨🏻‍🎓 About Me
 
 
-
-
-<img src="https://user-images.githubusercontent.com/2780145/123770444-ec64b500-d8e7-11eb-9b22-91a0cceb3f8a.gif" width="300" align='left'>
 
 ⚔️ Master of Technology (Software Systems and Data Analytics)  
 🔪 [Google Certified Android Developer](https://scl.io/9Tn1il6) | Java | Kotlin | Firebase    
@@ -104,7 +99,7 @@
 <code><img height="24" title="Docker" src="https://user-images.githubusercontent.com/2780145/123687035-0eb9ec80-d86e-11eb-98e0-af1b1b47dcd7.png"></code>
 <code><img height="24" title="Unity3D" src="https://user-images.githubusercontent.com/2780145/123687023-0cf02900-d86e-11eb-8147-8f82f4ab24d3.png"></code>
 
-![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=CSS,Dockerfile)![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
+![Suryakant-Bharti"s Languages](https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=Suryakant-Bharti&layout=compact&theme=buefy&hide=Dockerfile)  ![Suryakant-Bharti"s Stats](https://github-readme-stats.vercel.app/api?username=Suryakant-Bharti&show_icons=true&include_all_commits=true&theme=buefy)
 
 ![Suryakant-Bharti"s LeetCode Stats](https://leetcard.jacoblin.cool/suryakantbharti?theme=light)
 
