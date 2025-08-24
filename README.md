@@ -14,19 +14,19 @@
 **PRIMARY LINKS**
 
 <a href="https://www.linkedin.com/in/suryakantbharti">
-  <img align="left" alt="Suryakant Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Suryakant Linkdein" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/linkedin.svg" />
 </a>
 <a href="https://medium.com/android-saga">
-  <img align="left" alt="Suryakant Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Suryakant Medium" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/medium.svg" />
 </a>
 <a href="https://play.google.com/store/apps/dev?id=6341353287704882628">
-  <img align="left" alt="Suryakant PlayStore" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />
+  <img align="left" alt="Suryakant PlayStore" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/playstore.svg" />
 </a>
-<a href="https://www.facebook.com/suryakant.bharti.apps">
-  <img align="left" alt="Apps FB Page" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://dribbble.com/Suryakant-Bharti">
+  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/dribbble.svg" />
 </a>
 <a href="https://www.behance.net/suryakantbharti">
-  <img align="left" alt="Suryakant Behance" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img align="left" alt="Suryakant Behance" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/behance.svg" />
 </a>
 
 <br>
@@ -35,8 +35,8 @@
 
 **SECONDARY LINKS**
 
-<a href="https://dribbble.com/Suryakant-Bharti">
-  <img align="left" alt="Suryakant Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+<a href="https://www.facebook.com/suryakant.bharti.apps">
+  <img align="left" alt="Apps FB Page" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://app.pluralsight.com/profile/suryakant-bharti">
   <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
