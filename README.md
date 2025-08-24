@@ -6,16 +6,16 @@
 <a href="https://www.suryakantbharti.com/">
   <img align="left" alt="Suryakant Website" height="36px" src="https://github.com/Suryakant-Bharti/Suryakant-Bharti/assets/2780145/75344a6e-38a5-48a9-b055-866963f1ca7c" />
 </a>
-
-<br>
-<br>
-<br>
-
-**PRIMARY LINKS**
-
 <a href="https://www.linkedin.com/in/suryakantbharti">
-  <img align="left" alt="Suryakant Linkdein" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/linkedin.svg" />
+  <img align="left" alt="Suryakant Linkdein" width="36px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/linkedin.svg" />
 </a>
+
+<br>
+<br>
+<br>
+
+**PRIMARY PROFILES**
+
 <a href="https://medium.com/android-saga">
   <img align="left" alt="Suryakant Medium" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/1455da3b1655684a8a6152daf9f458aea6e50158/SiteLinkIcons/medium.svg" />
 </a>
@@ -33,22 +33,19 @@
 <br>
 
 
-**SECONDARY LINKS**
+**SECONDARY PROFILES**
 
-<a href="https://www.facebook.com/suryakant.bharti.apps">
-  <img align="left" alt="Apps FB Page" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://app.pluralsight.com/profile/suryakant-bharti">
-  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" />
+  <img align="left" alt="Suryakant PluralSight" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/afc4b572d8c110d1739786caa06ea20da4435cb0/SiteLinkIcons/pluralsight.svg" />
 </a>
 <a href="https://leetcode.com/suryakantbharti">
-  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Suryakant LeetCode" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/afc4b572d8c110d1739786caa06ea20da4435cb0/SiteLinkIcons/leetcode.svg" />
 </a>  
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti?tab=profile">
-  <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/afc4b572d8c110d1739786caa06ea20da4435cb0/SiteLinkIcons/stackoverflow.svg" />
 </a>
 <a href="https://gitlab.com/Suryakant-Bharti">
-  <img align="left" alt="Suryakant Gitlab" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" alt="Suryakant Gitlab" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/afc4b572d8c110d1739786caa06ea20da4435cb0/SiteLinkIcons/gitlab.svg" />
 </a>
 
 <br>
