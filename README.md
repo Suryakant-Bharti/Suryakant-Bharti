@@ -44,7 +44,7 @@
 <a href="https://stackoverflow.com/users/10436569/suryakant-bharti?tab=profile">
   <img align="left" alt="Suryakant StackOverflow" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/afc4b572d8c110d1739786caa06ea20da4435cb0/SiteLinkIcons/stackoverflow.svg" />
 </a>
-<a href="https://gitlab.com/Suryakant-Bharti">
+<a href="https://gitlab.com/users/Suryakant-Bharti/projects">
   <img align="left" alt="Suryakant Gitlab" width="24px" src="https://raw.githubusercontent.com/Suryakant-Bharti/Suryakant-Bharti/afc4b572d8c110d1739786caa06ea20da4435cb0/SiteLinkIcons/gitlab.svg" />
 </a>
 
